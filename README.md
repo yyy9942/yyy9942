@@ -2,7 +2,7 @@
 
 ## 소개
 * 이름: 정준 <br/>
-* 닉네임: eric <br/>
+* 닉네임: Eric <br/>
 * 이메일: yyy9942@naver.com <br/>
 * 블로그: https://deveric.tistory.com/
 
