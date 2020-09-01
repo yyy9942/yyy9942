@@ -25,7 +25,7 @@
 공부한 것을 발표하는 방법과 아는 내용을 정리하는 방법을 익히는데 좋은것 같습니다.<br/>
 
 ## 온라인 커뮤니티
-### Discord [Join](https://discord.gg/Vmcgb9n)<br>
+### Discord [Join](https://discord.gg/fBCuenr)<br>
 누구나 오셔서 자유롭게 이야기 하실 수 있습니다. <br/>
 음성 채팅을 하며 공부하기도 하고, 모르는 내용에 대해 서로 질의응답을 가지고 있습니다.<br/>
 * 라이브 코딩
