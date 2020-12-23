@@ -1,6 +1,8 @@
 # Eric을 소개합니다!
 ![eric](https://user-images.githubusercontent.com/46917538/102997836-52533700-4569-11eb-983a-de341cf0a423.jpg)<br/>
-### `하나의 기술을 사용하더라도, 깊게 파고들어 공부하는 것을 좋아합니다.`
+```
+하나의 기술을 사용하더라도, 깊게 파고들어 공부하는 것을 좋아합니다.
+```
 
 ## 소개
 * 이름: 정준 <br/>
@@ -26,6 +28,7 @@
   - JVM 매트릭과 API별 엔드포인트를 분석하여 영입시스템 성능 3배 이상 개선
   - 팀 내 Kubernetes 가이드 및 스터디 진행
   - PM 기반 서비스를 Kubernetes 기반 서비스로 마이그레이션
+  - [카카오 기술 블로그](https://tech.kakao.com/2020/12/17/kakao-work-platform/)에 팀 소개 작성
 * 주 사용 스킬 : Java, Spring, MySQL, Kubernetes, Redis
 
 ## Study With Eric!
