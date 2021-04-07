@@ -1,5 +1,6 @@
 # Eric을 소개합니다!
-![image](https://user-images.githubusercontent.com/46917538/113891996-901a5980-9800-11eb-8429-7cc63de4d446.png)<br/>
+![image](https://user-images.githubusercontent.com/46917538/113892402-e7202e80-9800-11eb-942e-2049aba303b3.png)
+<br/>
 ```
 하나의 기술을 사용하더라도, 깊게 파고들어 공부하는 것을 좋아합니다.
 ```
