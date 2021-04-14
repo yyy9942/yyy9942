@@ -30,7 +30,6 @@
   - 팀 내 Kubernetes 가이드 및 스터디 진행
   - PM 기반 서비스를 Kubernetes 기반 서비스로 마이그레이션
   - [카카오 기술 블로그](https://tech.kakao.com/2020/12/17/kakao-work-platform/)에 팀 소개 작성<br/><br/>
-* 주 사용 스킬 : Java, Spring, MySQL, Kubernetes, Redis
 
 ## 기술 스택
 ### Backend
