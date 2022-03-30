@@ -51,9 +51,8 @@
 - Spring boot
 
 ### Frontend
-- Vue.js
-- Velocity, Freemarker, JSP 등의 서버 사이드 랜더링
 - React
+- Vue.js
 
 ### Database
 - MySQL
