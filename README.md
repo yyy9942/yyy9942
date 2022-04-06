@@ -43,7 +43,7 @@
 
 ## 활동
 * Growth for Developer Conference | "쓸만한 테스트 작성하기" 연사
-
+* 재능기부로 [신규 개발자의 성장](https://github.com/E-TF)을 돕고있습니다
 ## 기술 스택
 ### Backend
 - Java
