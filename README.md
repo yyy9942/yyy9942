@@ -69,7 +69,7 @@
 
 * [Kubernetes Study](https://docs.google.com/document/d/1AHvW8u5psKfAk7yyKRuMKowOMWjz64d12vSxBzFcAOs/edit)
 * [Real MySQL 8.0 Study](https://docs.google.com/document/d/1wV__EgYUYXwHFUCcX8JN11d75k4RgA_Zj4_C8Hbk4DQ/edit#)
-* Side Project Review
+* [Side Project Review](https://github.com/orgs/E-TF/repositories)
 * Simulation Technical Interview
 * Live coding
 
